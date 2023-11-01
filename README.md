@@ -1,16 +1,18 @@
-# tickttech
+# tickttech FoodNinja
 
-A new Flutter project.
 
-## Getting Started
+# Build APP
+1. Clone the repo `gh repo clone Fareed-Ahmad7/FoodNinja`
+2. Install dependencies `flutter pub get`
+3. Run app `flutter run`
 
-This project is a starting point for a Flutter application.
+# IOS Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Fareed-Ahmad7/FoodNinja/assets/90202062/f7024f86-bb6e-4399-bed6-a376c48675ce" width=30% height=30%>
+&nbsp; &nbsp;  &nbsp; 
+<img src="https://github.com/Fareed-Ahmad7/FoodNinja/assets/90202062/1efc51d3-d81b-4030-be56-59e699dd2663" width=30% height=30%>
+&nbsp; &nbsp;  &nbsp; 
+<img src="https://github.com/Fareed-Ahmad7/FoodNinja/assets/90202062/827d5e4a-f581-4d31-a783-c648c67ac19b" width=30% height=30%>
+&nbsp; &nbsp;  &nbsp; 
+<img src="https://github.com/Fareed-Ahmad7/FoodNinja/assets/90202062/36b6c4bb-abd5-4a9a-bcb0-413c20a673ba" width=30% height=30%>
+&nbsp; &nbsp;  &nbsp; 
