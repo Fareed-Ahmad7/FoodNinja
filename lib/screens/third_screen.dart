@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:tickttech/screens/third_screen.dart';
+import 'package:tickttech/screens/fourth_screen.dart';
 
-class SecondScreen extends StatelessWidget {
-  const SecondScreen({super.key});
+class ThirdScreen extends StatelessWidget {
+  const ThirdScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -10,27 +10,30 @@ class SecondScreen extends StatelessWidget {
       body: SafeArea(
           child: Column(
         children: [
-          Image.asset('./assets/icons/Illustartion.png'),
+          const SizedBox(
+            height: 50,
+          ),
+          Image.asset('./assets/icons/illustration_2.png'),
           const SizedBox(
             height: 40,
           ),
           const Text(
-            'Find your comfort',
+            'Food Ninja is Where Your',
             style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
           ),
           const Text(
-            'Food here',
+            'Comfort Food Lives',
             style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
           ),
           const SizedBox(
             height: 20,
           ),
           const Text(
-            'Here You Can find a chef or dish for every',
+            'Enjoy a fast and smooth food delivery at',
             style: TextStyle(fontSize: 12),
           ),
           const Text(
-            'taste and color. Enjoy!',
+            'your doorstep',
             style: TextStyle(fontSize: 12),
           ),
           const SizedBox(
@@ -40,7 +43,7 @@ class SecondScreen extends StatelessWidget {
             onTap: () {
               Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => const ThirdScreen()),
+                MaterialPageRoute(builder: (context) => const FourthScreen()),
               );
             },
             child: Container(
